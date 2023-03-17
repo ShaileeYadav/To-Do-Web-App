@@ -1,4 +1,4 @@
-Simple Flask Todo App using SQLAlchemy and SQLite database.
+# Simple Flask Todo App using SQLAlchemy and SQLite database.
 
 For styling semantic-ui is used.
 
